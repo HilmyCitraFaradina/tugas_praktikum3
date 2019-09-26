@@ -1,0 +1,15 @@
+body{
+	background-color: blue;
+}
+h1{
+	font-size: 40px;
+	color: black;
+	font-family: sans-serif;
+}
+
+.border{
+	background-color: white;
+	width: 250px;
+	height: 380px
+	border-radius: 10px
+}
